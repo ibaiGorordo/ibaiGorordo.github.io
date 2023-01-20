@@ -1,3 +1,6 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
+[submodule "_repos/yolov8_detection"]
+	path = _repos/yolov8_detection
+	url = https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection.git
