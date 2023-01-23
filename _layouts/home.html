@@ -43,18 +43,17 @@ layout: page
 {% for post in posts %}
 
   <div class="post-preview">
+    {% if post.image %}
+    <div class="post-image">
+      <a href="{{ post.url | relative_url }}">
+        <img style="width: 100%; height: 20vh !important; object-fit: cover;" src="{{ post.image.path | relative_url }}" alt="{{ post.title }}">
+      </a>
+    </div>
+  {% endif %}
+
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
-
-    <div class="post-content">
-      <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
-
-      <p>
-        {% include no-linenos.html content=post.content %}
-        {{ content | markdownify | strip_html | truncate: 200 | escape }}
-      </p>
-    </div>
 
     <div class="post-meta text-muted d-flex">
       <div class="mr-auto">
