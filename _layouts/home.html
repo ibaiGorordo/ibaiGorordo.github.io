@@ -46,7 +46,7 @@ layout: page
     {% if post.image %}
     <div class="post-image">
       <a href="{{ post.url | relative_url }}">
-        <img style="width: 40vw; height: 40vh !important; object-fit: cover;border-radius: 5px;" src="{{ post.image.path | relative_url }}" alt="{{ post.title }}">
+        <img style="width: 100%; height: 40vh !important; object-fit: cover;border-radius: 5px;" src="{{ post.image.path | relative_url }}" alt="{{ post.title }}">
       </a>
     </div>
   {% endif %}
