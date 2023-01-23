@@ -13,19 +13,20 @@ tail_includes:
   <h1 data-toc-skip>{{ page.title }}</h1>
   <div class="d-flex justify-content-between">
     <!-- published date -->
-    <span>
-      {{ site.data.locales[site.lang].post.posted }}
-      {% include datetime.html date=page.date tooltip=true %}
+    <div>
+      <div>
+        {{ site.data.locales[site.lang].post.posted }}
+        {% include datetime.html date=page.date tooltip=true %}
+      </div>
+  
+      <!-- lastmod date -->
       {% if page.last_modified_at %}
-        - ({{ site.data.locales[site.lang].post.updated }}
-        {% include datetime.html date=page.last_modified_at tooltip=true %})
+      <div>
+        {{ site.data.locales[site.lang].post.updated }}
+        {% include datetime.html date=page.last_modified_at tooltip=true %}
+      </div>
       {% endif %}
-    </span>
-
-    <!-- lastmod date -->
-    
-    </span>
-   
+    </div>
 
     <div>
       <!-- page views -->
