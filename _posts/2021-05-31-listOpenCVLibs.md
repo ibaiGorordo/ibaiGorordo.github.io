@@ -9,4 +9,7 @@ image:
   alt: listOpenCVLibs
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/listOpenCVLibs)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/listOpenCVLibs)
+
 List the names of the OpenCV libraries to be added for the Linker's "Additional Dependencies".

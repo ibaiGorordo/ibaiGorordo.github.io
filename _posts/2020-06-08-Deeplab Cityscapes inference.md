@@ -10,6 +10,9 @@ image:
 tags: [deeplabv3, deeplab, semantic-segmentation, deep-learning, tensorflow2, cityscapes-dataset]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/Deeplab-Cityscapes-inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Deeplab-Cityscapes-inference)
+
 Python program to visualize the results from the Deeplab model (trained on **Cityscapes dataset**).
 
 ## Required Python packages

@@ -9,6 +9,9 @@ image:
   alt: libUVC OpenCV cpp
 categories: ["Repository", C]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/libUVC-OpenCV-cpp)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/libUVC-OpenCV-cpp)
+
 Example script to capture images from USB cameras using the libUVC library and OpenCV in C++.The example runs for 10 seconds and it automatically stops.
 **Tested in Ubuntu 20.04.1 LTS**
 

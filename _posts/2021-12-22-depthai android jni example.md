@@ -10,6 +10,9 @@ image:
 tags: [android, computer-vision, cpp, deep-learning, depthai, jni-android, object-detection]
 categories: ["Repository", C++]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/depthai-android-jni-example)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/depthai-android-jni-example)
+
  Android example to get the rgb and disparity images from the OAK-D device connected to a phone.
 
 [https://user-images.githubusercontent.com/43162939/155553973-ade18226-4111-426d-a4bc-cffdee4a0063.mp4](https://user-images.githubusercontent.com/43162939/155553973-ade18226-4111-426d-a4bc-cffdee4a0063.mp4)

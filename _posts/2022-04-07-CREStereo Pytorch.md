@@ -10,6 +10,9 @@ image:
 tags: [python, computer-vision, opencv, depth-estimation, deep-learning, stereo-matching, stereo-vision, stereo-depth-estimation, pytorch, crestereo]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/CREStereo-Pytorch)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/CREStereo-Pytorch)
+
  Non-official Pytorch implementation of the CREStereo (CVPR 2022 Oral) model converted from the original MegEngine implementation.
 
 ![!CREStereo-Pytorch stereo detph estimation](https://github.com/ibaiGorordo/CREStereo-Pytorch/raw/main/doc/img/output.jpg)

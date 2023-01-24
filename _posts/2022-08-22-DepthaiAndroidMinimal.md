@@ -9,4 +9,7 @@ image:
   alt: DepthaiAndroidMinimal
 categories: ["Repository", Java]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/DepthaiAndroidMinimal)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/DepthaiAndroidMinimal)
+
  Minimal Android Studio project to build a depthai-core application without using a prebuild library.

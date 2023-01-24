@@ -10,6 +10,9 @@ image:
 tags: [tflite, depth-completion, depth-estimation, python3, tensorflow]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/TFLite-msg_chn_wacv20-depth-completion)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/TFLite-msg_chn_wacv20-depth-completion)
+
 Python script for performing depth completion from sparse depth and rgb images using the msg_chn_wacv20. model in Tensorflow Lite.
 
 ![TFLite msg_chn_wacv20 depth completion](https://github.com/ibaiGorordo/TFLite-msg_chn_wacv20-depth-completion/raw/main/doc/img/out.png)

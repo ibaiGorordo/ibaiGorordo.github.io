@@ -10,6 +10,9 @@ image:
 tags: [python, pytorch, lane-detection, self-driving-car, lane-lines-detection, lane-segmentation]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-)
+
 Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Pytorch.
 
 ![!Ultra fast lane detection](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/raw/main/doc/img/detected%20lanes.jpg)

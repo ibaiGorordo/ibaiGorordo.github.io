@@ -10,6 +10,9 @@ image:
 tags: [onnx, imagenet, object-detection, python, opencv, computer-vision, class-agnostic-detection, object-localization]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-ImageNet-1K-Object-Detector)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-ImageNet-1K-Object-Detector)
+
 Python scripts for performing object detection with the 1000 labels of the ImageNet dataset in ONNX. The repository combines a class agnostic object localizer to first detect the objects in the image, and next a ResNet50 model trained on ImageNet is used to label each box.
 
 ![Imagenet 1K Object Detection](https://github.com/ibaiGorordo/ONNX-ImageNet-1K-Object-Detector/raw/main/doc/img/output_balloon.jpg)

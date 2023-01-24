@@ -10,6 +10,9 @@ image:
 tags: [depthai, lane-detection, myriad-x, ultra-fast-lane-detection]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/depthai-ultra-fast-lane-detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/depthai-ultra-fast-lane-detection)
+
  Lane detection example using the ultra fast lane detection model using the depthai framework.
 
 # Work in progress

@@ -10,6 +10,9 @@ image:
 tags: [matlab, perception-neuron, calc-file, motion-capture, inertial-sensors]
 categories: ["Repository", MATLAB]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/Perception-Neuron-Read-Calc-File)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Perception-Neuron-Read-Calc-File)
+
 Program to read the .calc file from the Perception Neuron (Noitom).
 
 The function takes the filename string and outputs the following variables:

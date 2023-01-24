@@ -9,6 +9,9 @@ image:
   alt: LSD
 categories: ["Repository", C++]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/lsd_modern)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/lsd_modern)
+
  C++ code to try to modernize the original Line Segment Detect code
 
 ## Line Detection Comparison

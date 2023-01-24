@@ -10,6 +10,9 @@ image:
 tags: [tensorflowjs, tensorflow, shoe-detection, object-detection, ssd-mobilenetv2, quantization]
 categories: ["Repository", Jupyter Notebook]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/shoeDetection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/shoeDetection)
+
 Shoe detection with ssdlite mobilenetv2 (withquantization) in Tensorfllow js 
 
 # Inference on the web using Tensorflow JS

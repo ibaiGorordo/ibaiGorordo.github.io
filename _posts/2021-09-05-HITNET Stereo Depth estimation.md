@@ -10,6 +10,9 @@ image:
 tags: [google-research, tensorflow, tensorflow2, hitnet, stereo-vision, stereo-matching, depth-estimation, deep-learning, driving-stereo-dataset, driving-stereo]
 categories: ["Repository", Python]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/HITNET-Stereo-Depth-estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/HITNET-Stereo-Depth-estimation)
+
 Python scripts for performing stereo depth estimation using the [HITNET Tensorflow model from Google Research](https://github.com/google-research/google-research/tree/master/hitnet).
 
 ![Hitnet stereo depth estimation](https://github.com/ibaiGorordo/HITNET-Stereo-Depth-estimation/raw/main/doc/img/out.jpg)

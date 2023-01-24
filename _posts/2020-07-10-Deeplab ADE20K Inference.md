@@ -9,6 +9,9 @@ image:
   alt: Deeplab ADE20K Inference
 categories: ["Repository", Jupyter Notebook]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference)
+
 Python program to visualize the results from the Deeplab model (trained on **ADE20K dataset**).
 
 ## Required Python packages

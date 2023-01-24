@@ -10,6 +10,9 @@ image:
 tags: [razer-hydra, sixense-sdk, data-logger, motion-tracking, c, visual-studio]
 categories: ["Repository", C++]
 ---
+
+## [Open In Github](https://github.com/ibaiGorordo/readRazerData)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/readRazerData)
+
 Program based on the sixense_simple3d code from the Sixense SDK to read the data from the Razer Hydra. The main objective of this program is to act as data logger for the Razer Hydra. Therefore, all the code related to FreeGlut has been removed and the 3d representation of the controllers is not showed. In contrast, all the information is presented in the command line. 
 
 In the current version, the **Base Number**, **Controller Id** and the **3D positions** are printed in the command line. The printed information can be changed by editing the code in the ***draw_controller_info*** function. For example, the following code is commented, but by uncommenting it, information about the controller can be showed.
