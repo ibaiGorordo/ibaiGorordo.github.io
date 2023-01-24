@@ -4,6 +4,9 @@ title: depthai android jni example
 date: 2021-12-22 11:55:31 
 last_modified_at: 2022-11-27 03:26:53 
 url: https://github.com/ibaiGorordo/depthai-android-jni-example
+image:
+  path: https://socialify.git.ci/ibaiGorordo/depthai-android-jni-example/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: depthai android jni example
 tags: [android, computer-vision, cpp, deep-learning, depthai, jni-android, object-detection]
 categories: ["Repository", C++]
 ---

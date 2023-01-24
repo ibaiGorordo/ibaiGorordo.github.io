@@ -6,7 +6,7 @@ last_modified_at: 2022-12-13 13:23:38
 url: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection/raw/main/doc/img/detected_objects.jpg
-  alt: ! ONNX YOLOv6 Object Detection
+  alt:  ONNX YOLOv6 Object Detection
 categories: ["Repository", Python]
 ---
  Python scripts performing object detection using the YOLOv6 model in ONNX.

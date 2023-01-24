@@ -4,6 +4,9 @@ title: XLinkAndroidTest
 date: 2021-08-29 12:53:47 
 last_modified_at: 2021-09-06 12:27:45 
 url: https://github.com/ibaiGorordo/XLinkAndroidTest
+image:
+  path: https://socialify.git.ci/ibaiGorordo/XLinkAndroidTest/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: XLinkAndroidTest
 categories: ["Repository", C]
 ---
  Android app example for testing [XLink library](https://github.com/luxonis/XLink) in Android.

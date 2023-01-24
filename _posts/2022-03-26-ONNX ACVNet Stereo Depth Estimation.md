@@ -6,7 +6,7 @@ last_modified_at: 2023-01-10 10:32:33
 url: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation/raw/main/doc/img/out.jpg
-  alt: !ACVNet stereo detph estimation
+  alt: ACVNet stereo detph estimation
 tags: [computer-vision, deep-learning, depth-estimation, onnx, onnxruntime, stereo-matching, stereo-vision]
 categories: ["Repository", Python]
 ---

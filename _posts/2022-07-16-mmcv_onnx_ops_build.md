@@ -4,6 +4,9 @@ title: mmcv_onnx_ops_build
 date: 2022-07-16 07:27:29 
 last_modified_at: 2022-07-17 06:29:20 
 url: https://github.com/ibaiGorordo/mmcv_onnx_ops_build
+image:
+  path: https://socialify.git.ci/ibaiGorordo/mmcv_onnx_ops_build/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: mmcv_onnx_ops_build
 categories: ["Repository", CMake]
 ---
  Repository for building the ONNX compatible ops in MMCV to run them in onnxruntime.

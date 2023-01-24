@@ -6,7 +6,7 @@ last_modified_at: 2022-02-13 03:52:50
 url: https://github.com/ibaiGorordo/depthai-ultra-fast-lane-detection
 image:
   path: https://github.com/ibaiGorordo/depthai-ultra-fast-lane-detection/raw/main/doc/img/output.jpg
-  alt: !Depthai Ultra fast lane detection
+  alt: Depthai Ultra fast lane detection
 tags: [depthai, lane-detection, myriad-x, ultra-fast-lane-detection]
 categories: ["Repository", Python]
 ---

@@ -6,7 +6,7 @@ last_modified_at: 2023-01-18 15:31:02
 url: https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation/raw/main/doc/img/detected_objects.jpg
-  alt: ! ONNX YOLOv8 Instance Segmentation
+  alt:  ONNX YOLOv8 Instance Segmentation
 tags: [computer-vision, deep-learning, instance-segmentation, onnx, onnxruntime, opencv, segmentation, yolov8, python]
 categories: ["Repository", Python]
 ---

@@ -6,7 +6,7 @@ last_modified_at: 2022-04-25 05:40:13
 url: https://github.com/ibaiGorordo/Midasv2_1_small-TFLite-Inference
 image:
   path: https://github.com/ibaiGorordo/Midasv2_1_small-TFLite-Inference/raw/main/doc/img/output.jpg
-  alt: !Midas v2.1 small TFLite Inference
+  alt: Midas v2.1 small TFLite Inference
 tags: [tflite, tensorflow, monocular-depth-estimation, deeplearning, python, midasv2]
 categories: ["Repository", Python]
 ---

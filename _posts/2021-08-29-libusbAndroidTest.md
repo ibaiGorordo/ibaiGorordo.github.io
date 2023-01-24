@@ -4,6 +4,9 @@ title: libusbAndroidTest
 date: 2021-08-29 00:35:34 
 last_modified_at: 2022-02-15 21:25:41 
 url: https://github.com/ibaiGorordo/libusbAndroidTest
+image:
+  path: https://socialify.git.ci/ibaiGorordo/libusbAndroidTest/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: libusbAndroidTest
 tags: [libusb, android, java, cpp, ndk, example]
 categories: ["Repository", C++]
 ---

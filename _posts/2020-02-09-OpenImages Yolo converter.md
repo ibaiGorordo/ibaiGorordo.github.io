@@ -4,6 +4,9 @@ title: OpenImages Yolo converter
 date: 2020-02-09 12:13:19 
 last_modified_at: 2022-10-23 13:38:30 
 url: https://github.com/ibaiGorordo/OpenImages-Yolo-converter
+image:
+  path: https://socialify.git.ci/ibaiGorordo/OpenImages-Yolo-converter/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: OpenImages Yolo converter
 tags: [openimagesv5, openimages-v4, yolov3, yolo, yolov3-tiny, openimages, object-detection]
 categories: ["Repository", Python]
 ---

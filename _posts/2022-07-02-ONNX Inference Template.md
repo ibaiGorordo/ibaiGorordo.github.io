@@ -4,6 +4,9 @@ title: ONNX Inference Template
 date: 2022-07-02 02:48:42 
 last_modified_at: 2022-10-27 11:21:40 
 url: https://github.com/ibaiGorordo/ONNX-Inference-Template
+image:
+  path: https://socialify.git.ci/ibaiGorordo/ONNX-Inference-Template/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: ONNX Inference Template
 categories: ["Repository", Python]
 ---
  Template project for performing inference on ONNX models in Python.

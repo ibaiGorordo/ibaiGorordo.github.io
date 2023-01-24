@@ -6,7 +6,7 @@ last_modified_at: 2022-11-17 11:01:11
 url: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation/raw/main/doc/img/output.png
-  alt: !TopFormer Semantic Segmentation
+  alt: TopFormer Semantic Segmentation
 tags: [ade20k, computer-vision, onnx, onnxruntime, onnxruntime-gpu, opencv, python, semantic-segmentation]
 categories: ["Repository", Python]
 ---

@@ -4,6 +4,9 @@ title: ibaiGorordo.github.io
 date: 2023-01-20 12:18:40 
 last_modified_at: 2023-01-23 12:29:26 
 url: https://github.com/ibaiGorordo/ibaiGorordo.github.io
+image:
+  path: https://socialify.git.ci/ibaiGorordo/ibaiGorordo.github.io/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: ibaiGorordo.github.io
 categories: ["Repository", SCSS]
 ---
 

@@ -4,6 +4,9 @@ title: readRazerData
 date: 2018-09-11 05:22:36 
 last_modified_at: 2018-09-11 07:06:24 
 url: https://github.com/ibaiGorordo/readRazerData
+image:
+  path: https://socialify.git.ci/ibaiGorordo/readRazerData/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: readRazerData
 tags: [razer-hydra, sixense-sdk, data-logger, motion-tracking, c, visual-studio]
 categories: ["Repository", C++]
 ---

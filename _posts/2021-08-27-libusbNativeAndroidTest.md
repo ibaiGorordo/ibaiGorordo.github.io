@@ -4,6 +4,9 @@ title: libusbNativeAndroidTest
 date: 2021-08-27 08:16:06 
 last_modified_at: 2022-05-08 12:51:09 
 url: https://github.com/ibaiGorordo/libusbNativeAndroidTest
+image:
+  path: https://socialify.git.ci/ibaiGorordo/libusbNativeAndroidTest/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: libusbNativeAndroidTest
 tags: [android, libusb, cpp, ndk, jni, native-activity]
 categories: ["Repository", C]
 ---

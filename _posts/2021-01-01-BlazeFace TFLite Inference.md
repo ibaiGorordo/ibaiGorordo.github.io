@@ -6,7 +6,7 @@ last_modified_at: 2022-11-17 11:38:13
 url: https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference
 image:
   path: https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference/raw/main/doc/img/output.jpg
-  alt: !BlazeFace detection tflite
+  alt: BlazeFace detection tflite
 tags: [blazeface, tensorflow2, python, facedetection, face-detection, tflite, tensorflow-lite]
 categories: ["Repository", Python]
 ---

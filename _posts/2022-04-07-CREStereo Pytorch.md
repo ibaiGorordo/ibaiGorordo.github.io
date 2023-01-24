@@ -6,7 +6,7 @@ last_modified_at: 2023-01-21 12:21:35
 url: https://github.com/ibaiGorordo/CREStereo-Pytorch
 image:
   path: https://github.com/ibaiGorordo/CREStereo-Pytorch/raw/main/doc/img/output.jpg
-  alt: !CREStereo-Pytorch stereo detph estimation
+  alt: CREStereo-Pytorch stereo detph estimation
 tags: [python, computer-vision, opencv, depth-estimation, deep-learning, stereo-matching, stereo-vision, stereo-depth-estimation, pytorch, crestereo]
 categories: ["Repository", Python]
 ---

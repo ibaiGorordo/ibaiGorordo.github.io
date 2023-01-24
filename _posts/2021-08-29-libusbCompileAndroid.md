@@ -4,6 +4,9 @@ title: libusbCompileAndroid
 date: 2021-08-29 13:52:45 
 last_modified_at: 2021-08-29 13:57:57 
 url: https://github.com/ibaiGorordo/libusbCompileAndroid
+image:
+  path: https://socialify.git.ci/ibaiGorordo/libusbCompileAndroid/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: libusbCompileAndroid
 categories: ["Repository", Java]
 ---
  Android project example for compiling libusb in Android Studio.

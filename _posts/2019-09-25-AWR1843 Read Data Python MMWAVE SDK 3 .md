@@ -4,6 +4,9 @@ title: AWR1843 Read Data Python MMWAVE SDK 3
 date: 2019-09-25 13:27:35 
 last_modified_at: 2023-01-05 06:53:40 
 url: https://github.com/ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-
+image:
+  path: https://socialify.git.ci/ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: AWR1843 Read Data Python MMWAVE SDK 3 
 tags: [mmwave, radar, texas-instruments, python, raspberry-pi, awr1843]
 categories: ["Repository", Python]
 ---

@@ -6,7 +6,7 @@ last_modified_at: 2022-12-14 08:35:32
 url: https://github.com/ibaiGorordo/shoeDetection
 image:
   path: https://colab.research.google.com/assets/colab-badge.svg
-  alt: !
+  alt: shoeDetection
 tags: [tensorflowjs, tensorflow, shoe-detection, object-detection, ssd-mobilenetv2, quantization]
 categories: ["Repository", Jupyter Notebook]
 ---

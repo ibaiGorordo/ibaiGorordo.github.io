@@ -6,7 +6,7 @@ last_modified_at: 2022-12-20 05:51:03
 url: https://github.com/ibaiGorordo/depthai-android-unity-example
 image:
   path: https://github.com/ibaiGorordo/depthai-android-unity-example/raw/main/doc/img/depthai_unity_android_particle_example.gif
-  alt: !depthai unity particle example android
+  alt: depthai unity particle example android
 tags: [depthai, unity, unity3d, android, cpp, csharp]
 categories: ["Repository", C++]
 ---

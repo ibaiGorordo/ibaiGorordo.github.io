@@ -6,7 +6,7 @@ last_modified_at: 2022-10-14 03:56:29
 url: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network
 image:
   path: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network/raw/main/doc/img/output.jpg
-  alt: !Object-Localization-Network
+  alt: Object-Localization-Network
 tags: [class-agnostic-detection, computer-vision, object-detection, onnx, onnxruntime, opencv, python, object-localization]
 categories: ["Repository", Python]
 ---

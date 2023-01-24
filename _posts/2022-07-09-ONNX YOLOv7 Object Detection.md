@@ -6,7 +6,7 @@ last_modified_at: 2023-01-19 21:57:44
 url: https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection/raw/main/doc/img/detected_objects.jpg
-  alt: ! ONNX YOLOv7 Object Detection
+  alt:  ONNX YOLOv7 Object Detection
 tags: [computer-vision, deep-learning, object-detection, onnx, opencv, python, yolo, yolov7]
 categories: ["Repository", Python]
 ---

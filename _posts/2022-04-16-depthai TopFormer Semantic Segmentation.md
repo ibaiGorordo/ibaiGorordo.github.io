@@ -6,7 +6,7 @@ last_modified_at: 2022-12-13 11:11:17
 url: https://github.com/ibaiGorordo/depthai-TopFormer-Semantic-Segmentation
 image:
   path: https://github.com/ibaiGorordo/depthai-TopFormer-Semantic-Segmentation/raw/main/doc/img/output.png
-  alt: !TopFormer Semantic Segmentation
+  alt: TopFormer Semantic Segmentation
 tags: [depthai, ade20k, computer-vision, myriad-x, opencv, python, semantic-segmentation]
 categories: ["Repository", Jupyter Notebook]
 ---

@@ -6,7 +6,7 @@ last_modified_at: 2023-01-17 20:47:47
 url: https://github.com/ibaiGorordo/ONNX-HAWP-Line-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-HAWP-Line-Detection/raw/main/doc/img/output.jpg
-  alt: !ONNX HAWP Line Detection
+  alt: ONNX HAWP Line Detection
 categories: ["Repository", Python]
 ---
  Python scripts for performing line detection using the HAWP model in ONNX.

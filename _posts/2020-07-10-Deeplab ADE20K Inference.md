@@ -6,7 +6,7 @@ last_modified_at: 2022-02-09 10:06:20
 url: https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference
 image:
   path: https://colab.research.google.com/assets/colab-badge.svg
-  alt: !
+  alt: Deeplab ADE20K Inference
 categories: ["Repository", Jupyter Notebook]
 ---
 Python program to visualize the results from the Deeplab model (trained on **ADE20K dataset**).

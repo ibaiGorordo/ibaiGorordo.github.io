@@ -6,7 +6,7 @@ last_modified_at: 2023-01-09 15:46:39
 url: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference
 image:
   path: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference/raw/main/doc/img/detected_lanes.jpg
-  alt: !Ultra fast lane detection
+  alt: Ultra fast lane detection
 tags: [tflite, tensorflow, tensorflow-lite, lane-detection, lane-segmentation, inference, raspberry-pi, pi4b]
 categories: ["Repository", Python]
 ---

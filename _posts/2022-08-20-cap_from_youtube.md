@@ -6,7 +6,7 @@ last_modified_at: 2022-08-30 19:26:23
 url: https://github.com/ibaiGorordo/cap_from_youtube
 image:
   path: https://img.shields.io/pypi/v/cap-from-youtube?color=2BAF2B
-  alt: !
+  alt: cap_from_youtube
 tags: [opencv, opencv-python, python, video-capture, youtube, youtube-dl, yt-dlp]
 categories: ["Repository", Python]
 ---

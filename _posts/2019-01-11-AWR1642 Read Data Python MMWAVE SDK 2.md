@@ -4,6 +4,9 @@ title: AWR1642 Read Data Python MMWAVE SDK 2
 date: 2019-01-11 08:29:25 
 last_modified_at: 2022-12-23 19:06:51 
 url: https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
+image:
+  path: https://socialify.git.ci/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  alt: AWR1642 Read Data Python MMWAVE SDK 2
 tags: [mmwave, texas-instruments, awr1642, radar, python, raspberry-pi]
 categories: ["Repository", Python]
 ---
