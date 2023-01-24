@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference
 image:
   path: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference/raw/main/doc/img/detected_lanes.jpg
   alt: !Ultra fast lane detection
+tags: [tflite, tensorflow, tensorflow-lite, lane-detection, lane-segmentation, inference, raspberry-pi, pi4b]
+categories: ["Repository", Python]
 ---
 Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Tensorflow Lite.
 

@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/ibaiGorordo
 image:
   path: https://github-readme-stats.vercel.app/api?username=ibaiGorordo&show_icons=true
   alt: ibaiGorordo's github stats
+categories: ["Repository", None]
 ---
 ![ibaiGorordo's github stats](https://github-readme-stats.vercel.app/api?username=ibaiGorordo&show_icons=true)
 

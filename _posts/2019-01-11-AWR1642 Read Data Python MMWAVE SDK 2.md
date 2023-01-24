@@ -4,6 +4,8 @@ title: AWR1642 Read Data Python MMWAVE SDK 2
 date: 2019-01-11 08:29:25 
 last_modified_at: 2022-12-23 19:06:51 
 url: https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
+tags: [mmwave, texas-instruments, awr1642, radar, python, raspberry-pi]
+categories: ["Repository", Python]
 ---
 
 Python program to read and plot the data in real time from the **AWR1642** and **IWR1642** mmWave radar boards (Texas Instruments). The program has been tested with Windows and Raspberry Pi and is based on the Matlab demo from Texas Instruments.

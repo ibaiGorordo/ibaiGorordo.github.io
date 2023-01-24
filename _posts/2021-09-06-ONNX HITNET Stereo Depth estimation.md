@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-HITNET-Stereo-Depth-estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-HITNET-Stereo-Depth-estimation/raw/main/doc/img/out.jpg
   alt: Hitnet stereo depth estimation ONNX
+tags: [onnx, deep-learning, depth-estimation, stereo-vision, stereo-matching, stereo-depth-estimation, python, onnxruntime]
+categories: ["Repository", Python]
 ---
 Python scripts form performing stereo depth estimation using the HITNET model in ONNX.
 

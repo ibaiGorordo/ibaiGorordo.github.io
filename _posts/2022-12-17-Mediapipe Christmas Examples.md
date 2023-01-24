@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples
 image:
   path: https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples/raw/main/doc/img/backgorund_christmas.gif
   alt: Mediapipe Christmas Background
+categories: ["Repository", Python]
 ---
 Python scripts using the Mediapipe models for Christmas.
 

@@ -4,6 +4,8 @@ title: IWR1443 Read Data Python MMWAVE SDK 1
 date: 2019-01-12 04:59:49 
 last_modified_at: 2023-01-05 15:45:07 
 url: https://github.com/ibaiGorordo/IWR1443-Read-Data-Python-MMWAVE-SDK-1
+tags: [mmwave, radar, awr1443, iwr1443, texas-instruments, python, raspberry-pi]
+categories: ["Repository", Python]
 ---
 
 Python program to read and plot the data in real time from the **AWR1443** and **IWR1443** mmWave radar boards (Texas Instruments). The program has been tested with Windows and Raspberry Pi and is based on the Matlab demo from Texas Instruments.

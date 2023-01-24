@@ -4,6 +4,8 @@ title: depthai android jni example
 date: 2021-12-22 11:55:31 
 last_modified_at: 2022-11-27 03:26:53 
 url: https://github.com/ibaiGorordo/depthai-android-jni-example
+tags: [android, computer-vision, cpp, deep-learning, depthai, jni-android, object-detection]
+categories: ["Repository", C++]
 ---
  Android example to get the rgb and disparity images from the OAK-D device connected to a phone.
 

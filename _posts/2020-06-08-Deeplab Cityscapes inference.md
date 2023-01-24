@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/Deeplab-Cityscapes-inference
 image:
   path: https://github.com/ibaiGorordo/Deeplab_Cityscapes_inference/raw/master/outputExample.PNG
   alt: alt text
+tags: [deeplabv3, deeplab, semantic-segmentation, deep-learning, tensorflow2, cityscapes-dataset]
+categories: ["Repository", Python]
 ---
 Python program to visualize the results from the Deeplab model (trained on **Cityscapes dataset**).
 

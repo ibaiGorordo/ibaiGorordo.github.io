@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation/raw/main/doc/img/out.jpg
   alt: !CREStereo detph estimation
+tags: [python, computer-vision, opencv, depth-estimation, stereo-matching, stereo-vision, stereo-depth-estimation, crestereo, onnx, onnxruntime]
+categories: ["Repository", Python]
 ---
  Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
  

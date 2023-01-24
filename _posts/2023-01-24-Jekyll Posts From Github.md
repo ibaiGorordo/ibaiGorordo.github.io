@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/Jekyll-Posts-From-Github
 image:
   path: https://jekyllrb.com/img/octojekyll.png
   alt: Jekyll-Posts-From-Github
+categories: ["Repository", Python]
 ---
  Automatically generate Jekyll posts from all the README files of a Github user.
 

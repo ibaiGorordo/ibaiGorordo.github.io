@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/Midasv2_1_small-TFLite-Inference
 image:
   path: https://github.com/ibaiGorordo/Midasv2_1_small-TFLite-Inference/raw/main/doc/img/output.jpg
   alt: !Midas v2.1 small TFLite Inference
+tags: [tflite, tensorflow, monocular-depth-estimation, deeplearning, python, midasv2]
+categories: ["Repository", Python]
 ---
  Python scripts to perform monocular depth estimation using Python with the Midas v2.1 small Tensorflow Lite model. Tested on Windows 10, Tensorflow 2.4.0 (Python 3.8).
 

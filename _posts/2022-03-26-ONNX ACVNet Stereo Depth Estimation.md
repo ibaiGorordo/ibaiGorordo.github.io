@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation/raw/main/doc/img/out.jpg
   alt: !ACVNet stereo detph estimation
+tags: [computer-vision, deep-learning, depth-estimation, onnx, onnxruntime, stereo-matching, stereo-vision]
+categories: ["Repository", Python]
 ---
  About Python scripts form performing stereo depth estimation using the ACVNet model in ONNX.
  

@@ -4,6 +4,8 @@ title: nuScenes Lane Detection
 date: 2020-02-01 13:29:33 
 last_modified_at: 2022-07-31 09:59:12 
 url: https://github.com/ibaiGorordo/nuScenes-Lane-Detection
+tags: [nuscenes, python, lane-detection, opencv]
+categories: ["Repository", Python]
 ---
 
 Lane detection program (Python) for the nuScenes mini dataset.

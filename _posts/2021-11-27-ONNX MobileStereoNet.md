@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-MobileStereoNet
 image:
   path: https://github.com/ibaiGorordo/ONNX-MobileStereoNet/raw/main/doc/img/out.jpg
   alt: MobileStereoNet depth estimation ONNX
+tags: [onnx, onnxruntime, python, stereo-vision, stereo-matching, stereo-depth-estimation]
+categories: ["Repository", Python]
 ---
 Python scripts for performing stereo depth estimation using the MobileStereoNet model in ONNX
 

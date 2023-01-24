@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-msg_chn_wacv20-depth-completion
 image:
   path: https://github.com/ibaiGorordo/ONNX-msg_chn_wacv20-depth-completion/raw/main/doc/img/out.png
   alt: ONNX msg_chn_wacv20 depth completion
+tags: [onnx, onnxruntime, depth-estimation, depth-completion, python, depth]
+categories: ["Repository", Python]
 ---
 Python script for performing depth completion from sparse depth and rgb images using the msg_chn_wacv20 model in ONNX. The example takes a synthetic depth map, it reduces the density (variable) of the depthmap and passes it to the depth completion map to densify the depth map.
 

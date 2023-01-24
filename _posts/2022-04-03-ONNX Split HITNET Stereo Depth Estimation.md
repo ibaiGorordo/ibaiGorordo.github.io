@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation/raw/main/doc/img/split.png
   alt: Hitnet ONNX model split
+tags: [inference, onnx, onnx-format, onnxruntime, onnx-graphsurgeon]
+categories: ["Repository", Python]
 ---
  Python scripts for performing Stereo Depth Estimation using the HITNET model split into two parts in ONNX.
 

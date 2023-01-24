@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/pyKinectAzure
 image:
   path: https://github.com/ibaiGorordo/pyKinectAzure/raw/master/doc/images/outputImage.jpg
   alt: Azure kinect color and depth combination
+tags: [opencv-python, opencv, depth-camera, body-tracking, deep-learning, k4a, k4abt, kinect, python3, python, kinect-azure, azure-kinect-sdk, azure-kinect, azure-kinect-dk]
+categories: ["Repository", Python]
 ---
 
 ![Azure kinect color and depth combination](https://github.com/ibaiGorordo/pyKinectAzure/raw/master/doc/images/outputImage.jpg)

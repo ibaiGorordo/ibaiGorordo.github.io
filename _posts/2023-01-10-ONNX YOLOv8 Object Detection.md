@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/raw/main/doc/img/detected_objects.jpg
   alt: ! ONNX YOLOv8 Object Detection
+tags: [yolov8, onnx, onnxruntime, opencv, python, computer-vision, deep-learning, object-detection, yolo]
+categories: ["Repository", Python]
 ---
 ![! ONNX YOLOv8 Object Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/raw/main/doc/img/detected_objects.jpg)
 *Original image: [https://www.flickr.com/photos/nicolelee/19041780](https://www.flickr.com/photos/nicolelee/19041780)*

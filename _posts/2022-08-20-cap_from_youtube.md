@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/cap_from_youtube
 image:
   path: https://img.shields.io/pypi/v/cap-from-youtube?color=2BAF2B
   alt: !
+tags: [opencv, opencv-python, python, video-capture, youtube, youtube-dl, yt-dlp]
+categories: ["Repository", Python]
 ---
  Get an OpenCV video capture from an YouTube video URL
 

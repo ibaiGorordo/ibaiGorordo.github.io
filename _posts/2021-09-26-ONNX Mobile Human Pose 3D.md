@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D
 image:
   path: https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D/raw/main/doc/img/output.bmp
   alt: Mobile Human 3D Pose mation ONNX
+tags: [onnx, onnxruntime, pose-estimation, 3d-pose-estimation, yolov5s]
+categories: ["Repository", Python]
 ---
 Python scripts for performing 3D human pose estimation using the Mobile Human Pose model.
 

@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-CoEx-Stereo-Depth-estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-CoEx-Stereo-Depth-estimation/raw/main/doc/img/out.jpg
   alt: CoEx stereo depth estimation ONNX
+tags: [onnx, onnxruntime, python, stereo-vision, stereo-matching, stereo-depth-estimation, depth-estimation]
+categories: ["Repository", Python]
 ---
 Python scripts form performing stereo depth estimation using the CoEx model in ONNX.
 

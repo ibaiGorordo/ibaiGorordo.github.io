@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer
 image:
   path: https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer/raw/main/docs/img/output.jpg
   alt: Tensorflow Generic Object Localizer
+tags: [tensorflow, class-agnostic-detection, object-detection, python, opencv]
+categories: ["Repository", Python]
 ---
 Python Tensorflow 2 scripts for detecting objects of any class in an image without knowing their label.
 

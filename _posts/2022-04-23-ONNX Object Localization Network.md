@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network
 image:
   path: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network/raw/main/doc/img/output.jpg
   alt: !Object-Localization-Network
+tags: [class-agnostic-detection, computer-vision, object-detection, onnx, onnxruntime, opencv, python, object-localization]
+categories: ["Repository", Python]
 ---
  Python scripts performing class agnostic object localization using the Object Localization Network model in ONNX.
 

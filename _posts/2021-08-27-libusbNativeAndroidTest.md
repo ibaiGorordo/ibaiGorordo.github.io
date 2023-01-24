@@ -4,6 +4,8 @@ title: libusbNativeAndroidTest
 date: 2021-08-27 08:16:06 
 last_modified_at: 2022-05-08 12:51:09 
 url: https://github.com/ibaiGorordo/libusbNativeAndroidTest
+tags: [android, libusb, cpp, ndk, jni, native-activity]
+categories: ["Repository", C]
 ---
  Example of a Native Android app for testing the libusb library in Android.
  

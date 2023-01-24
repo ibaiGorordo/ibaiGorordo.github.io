@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples
 image:
   path: https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/raw/main/doc/img/skeleton.gif
   alt: Mediapipe Skeleton Pose
+tags: [mediapipe, mediapipe-facemesh, mediapipe-face-detection, mediapipe-models, mediapipe-pose, mediapipe-hair, opencv, python]
+categories: ["Repository", Python]
 ---
 Python scripts using the Mediapipe models for Halloween.
 

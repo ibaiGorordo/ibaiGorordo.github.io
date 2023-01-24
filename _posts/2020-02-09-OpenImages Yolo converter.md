@@ -4,6 +4,8 @@ title: OpenImages Yolo converter
 date: 2020-02-09 12:13:19 
 last_modified_at: 2022-10-23 13:38:30 
 url: https://github.com/ibaiGorordo/OpenImages-Yolo-converter
+tags: [openimagesv5, openimages-v4, yolov3, yolo, yolov3-tiny, openimages, object-detection]
+categories: ["Repository", Python]
 ---
 Python program to convert OpenImages (V4/V5) labels to be used for YOLOv3. The program is a more efficient version (15x faster) than [the repository by Karol Majek.](https://github.com/karolmajek/YoloV3-Open-Images-v4). 
 

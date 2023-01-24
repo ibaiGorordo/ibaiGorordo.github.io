@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/UnrealCV-stereo-depth-generation
 image:
   path: https://github.com/ibaiGorordo/UnrealCV-stereo-depth-generation/raw/main/doc/img/unrealcvStereo.gif
   alt: UnrealCV stereo depth
+tags: [unrealcv, unreal-engine-4, computer-vision, stereo-vision, stereo-depth-estimation, synthetic-data]
+categories: ["Repository", Python]
 ---
 Python scripts for generating synthetic stereo depth data using the UnrealCV library.
 

@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation/raw/main/doc/img/output.jpg
   alt: !ONNX HRNET 2D Human Pose Estimation
+categories: ["Repository", Python]
 ---
  Python scripts for performing 2D human pose estimation using the HRNET family models (HRNET, Lite-HRNet) in ONNX.
 

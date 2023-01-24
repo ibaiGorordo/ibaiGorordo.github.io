@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking
 image:
   path: https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking/raw/main/doc/img/output.png
   alt: KP2D 2D Feature matching
+tags: [python, pytorch, visual-odometry, keypoint-detection, keypoint-tracking, feature-tracking, computer-vision, deep-learning, opencv]
+categories: ["Repository", Python]
 ---
  Python scripts for performing 2D feature detection and tracking using the KP2D model in Pytorch
 

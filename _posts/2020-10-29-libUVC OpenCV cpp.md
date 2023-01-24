@@ -4,6 +4,7 @@ title: libUVC OpenCV cpp
 date: 2020-10-29 09:11:36 
 last_modified_at: 2020-10-29 12:20:32 
 url: https://github.com/ibaiGorordo/libUVC-OpenCV-cpp
+categories: ["Repository", C]
 ---
 Example script to capture images from USB cameras using the libUVC library and OpenCV in C++.The example runs for 10 seconds and it automatically stops.
 **Tested in Ubuntu 20.04.1 LTS**

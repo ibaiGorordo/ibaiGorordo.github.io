@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting
 image:
   path: https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting/raw/main/doc/img/inpainted.png
   alt: !ONNX MST Image Inpainting
+tags: [onnx, image-inpainting, inpainting, onnxruntime, onnxruntime-gpu, opencv, python]
+categories: ["Repository", Python]
 ---
 Python scripts for performing Image Inpainting using the MST model in ONNX
 

@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation
 image:
   path: https://user-images.githubusercontent.com/43162939/159124756-6c562b36-f901-4669-b003-f7dec714b684.png
   alt: ONNX-CenterSnap-6D-Pose-and-Shape-Estimation
+tags: [python, onnx, onnxruntime, onnxruntime-gpu, opencv, computer-vision, 3d-object-detection, 6dof-pose, 3d-object-reconstruction, depthai, kinect, azure-kinect, oak-d]
+categories: ["Repository", Python]
 ---
  Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
  

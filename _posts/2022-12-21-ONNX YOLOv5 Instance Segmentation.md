@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-YOLOv5-Instance-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv5-Instance-Segmentation/raw/main/doc/img/detected_objects.jpg
   alt: ! ONNX YOLOv5 Instance Segmentation
+tags: [computer-vision, deep-learning, image-segmentation, instance-segmentation, onnx, onnxruntime, opencv, python, segmentation, yolov5]
+categories: ["Repository", Python]
 ---
  Python scripts performing instance segmentation using the YOLOv5 model in ONNX.
 

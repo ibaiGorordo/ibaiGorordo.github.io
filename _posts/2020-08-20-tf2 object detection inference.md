@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/tf2-object-detection-inference
 image:
   path: https://github.com/ibaiGorordo/tf2-object-detection-inference/raw/master/doc/img/Inference%20Output%20Example.gif
   alt: TF2 Object Detection Inference
+tags: [tensorflow2, object-detection, inference, webcam-capture, opencv, deep-learning, tensorflow]
+categories: ["Repository", Python]
 ---
 ![TF2 Object Detection Inference](https://github.com/ibaiGorordo/tf2-object-detection-inference/raw/master/doc/img/Inference%20Output%20Example.gif)
 

@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-HybridNets-Multitask-Road-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-HybridNets-Multitask-Road-Detection/raw/main/doc/img/bird_eye_view.png
   alt: !HybridNets Road multitask detections
+tags: [lane-detection, road-segmentation, python, opencv, onnx, onnxruntime, computer-vision, car-detection, object-detection, bird-eye-view]
+categories: ["Repository", Python]
 ---
  Python scripts for performing road segemtnation and car detection using the HybridNets multitask model in ONNX.
  

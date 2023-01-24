@@ -4,6 +4,7 @@ title: ibaiGorordo.github.io
 date: 2023-01-20 12:18:40 
 last_modified_at: 2023-01-23 12:29:26 
 url: https://github.com/ibaiGorordo/ibaiGorordo.github.io
+categories: ["Repository", SCSS]
 ---
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.

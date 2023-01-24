@@ -4,6 +4,8 @@ title: libusbAndroidTest
 date: 2021-08-29 00:35:34 
 last_modified_at: 2022-02-15 21:25:41 
 url: https://github.com/ibaiGorordo/libusbAndroidTest
+tags: [libusb, android, java, cpp, ndk, example]
+categories: ["Repository", C++]
 ---
  Example of an Android app for testing libusb with Java and C++.
  

@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/CREStereo-Pytorch
 image:
   path: https://github.com/ibaiGorordo/CREStereo-Pytorch/raw/main/doc/img/output.jpg
   alt: !CREStereo-Pytorch stereo detph estimation
+tags: [python, computer-vision, opencv, depth-estimation, deep-learning, stereo-matching, stereo-vision, stereo-depth-estimation, pytorch, crestereo]
+categories: ["Repository", Python]
 ---
  Non-official Pytorch implementation of the CREStereo (CVPR 2022 Oral) model converted from the original MegEngine implementation.
 

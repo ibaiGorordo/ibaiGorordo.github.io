@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-SCDepth-Monocular-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-SCDepth-Monocular-Depth-Estimation/raw/main/doc/img/out.png
   alt: SC_Depth monocular depth estimation ONNX
+tags: [depth-estimation, monocular-depth-estimation, computer-vision, onnx, onnxruntime, opencv, python, indoor-monocular-depth-estimation]
+categories: ["Repository", Python]
 ---
 Python scripts for performing monocular depth estimation using the SC_Depth model in ONNX
 

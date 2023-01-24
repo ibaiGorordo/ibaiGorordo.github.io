@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-GLPDepth
 image:
   path: https://github.com/ibaiGorordo/ONNX-GLPDepth/raw/main/doc/img/out.jpg
   alt: GLPDepth monocular depth estimation ONNX
+tags: [deep-learning, python, monocular-depth-estimation, depth-estimation, onnx, onnxruntime]
+categories: ["Repository", Python]
 ---
 Python scripts for performing monocular depth estimation using the GLPDepth model in ONNX
 

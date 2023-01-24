@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/PyTorch-High-Res-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/PyTorch-High-Res-Stereo-Depth-Estimation/raw/main/docs/img/out.jpg
   alt: High res stereo depth estimation Pytorch
+tags: [pytorch, python, stereo-vision, stereo-matching, stereo-depth-estimation, depth-estimation]
+categories: ["Repository", Python]
 ---
 Python scripts form performing stereo depth estimation using the high res stereo model in PyTorch.
 

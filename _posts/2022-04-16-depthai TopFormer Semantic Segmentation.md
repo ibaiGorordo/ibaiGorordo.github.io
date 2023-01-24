@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/depthai-TopFormer-Semantic-Segmentation
 image:
   path: https://github.com/ibaiGorordo/depthai-TopFormer-Semantic-Segmentation/raw/main/doc/img/output.png
   alt: !TopFormer Semantic Segmentation
+tags: [depthai, ade20k, computer-vision, myriad-x, opencv, python, semantic-segmentation]
+categories: ["Repository", Jupyter Notebook]
 ---
  Python scripts performing on devive semantic segmentation (ADE20K 150 classes)using the TopFormer model in depthai.
 

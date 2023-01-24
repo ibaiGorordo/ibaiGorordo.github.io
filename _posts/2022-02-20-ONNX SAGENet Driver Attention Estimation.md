@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation/raw/main/doc/img/output.jpg
   alt: SAGENet Driver Attention Estimation ONNX
+categories: ["Repository", Python]
 ---
  Python scripts for performing driver attention estimation using the SAGENet model in onnx
  

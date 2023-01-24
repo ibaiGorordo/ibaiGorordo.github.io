@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/shoeDetection
 image:
   path: https://colab.research.google.com/assets/colab-badge.svg
   alt: !
+tags: [tensorflowjs, tensorflow, shoe-detection, object-detection, ssd-mobilenetv2, quantization]
+categories: ["Repository", Jupyter Notebook]
 ---
 Shoe detection with ssdlite mobilenetv2 (withquantization) in Tensorfllow js 
 

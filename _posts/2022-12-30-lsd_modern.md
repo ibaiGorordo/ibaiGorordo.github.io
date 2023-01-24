@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/lsd_modern
 image:
   path: https://github.com/ibaiGorordo/lsd_modern/raw/main/doc/img/lines.jpg
   alt: LSD
+categories: ["Repository", C++]
 ---
  C++ code to try to modernize the original Line Segment Detect code
 

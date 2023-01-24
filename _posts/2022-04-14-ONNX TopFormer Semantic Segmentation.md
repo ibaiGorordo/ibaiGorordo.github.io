@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation/raw/main/doc/img/output.png
   alt: !TopFormer Semantic Segmentation
+tags: [ade20k, computer-vision, onnx, onnxruntime, onnxruntime-gpu, opencv, python, semantic-segmentation]
+categories: ["Repository", Python]
 ---
  Python scripts performing semantic segmentation using the TopFormer model in ONNX.
 

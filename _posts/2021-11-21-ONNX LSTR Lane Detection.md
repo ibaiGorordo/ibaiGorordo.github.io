@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection/raw/main/doc/img/lane_Detection.jpg
   alt: ONNX LSTR Lane Detection
+tags: [lane-detection, onnx, python, deep-learning, machine-learning, onnxruntime]
+categories: ["Repository", Python]
 ---
 Python scripts for performing lane detection using the Lane Shape Prediction with Transformers (LSTR) model in ONNX.
 

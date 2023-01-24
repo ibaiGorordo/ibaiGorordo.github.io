@@ -7,6 +7,8 @@ url: https://github.com/ibaiGorordo/ONNX-PackNet-SfM
 image:
   path: https://github.com/ibaiGorordo/ONNX-PackNet-SfM/raw/main/doc/img/out.jpg
   alt: GLPDepth monocular depth estimation ONNX
+tags: [python, opencv, depth-estimation, monocular-depth-estimation, packnet-sfm, onnx, onnxruntime]
+categories: ["Repository", Python]
 ---
 Python scripts for performing monocular depth estimation using the PackNet-SfM model in ONNX
 

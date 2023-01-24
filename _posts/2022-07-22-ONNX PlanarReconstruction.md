@@ -7,6 +7,7 @@ url: https://github.com/ibaiGorordo/ONNX-PlanarReconstruction
 image:
   path: https://github.com/ibaiGorordo/ONNX-PlanarReconstruction/raw/main/doc/img/planes.png
   alt: ! ONNX PlanarReconstruction Plane Segmentation
+categories: ["Repository", Python]
 ---
  Python scripts performing plane segmentation using PlanarReconstruction model in ONNX.
 
