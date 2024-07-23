@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mediapipe Christmas Examples
-date: 2022-12-17 12:22:40 
-last_modified_at: 2022-12-31 11:03:23 
+date: 2022-12-17 12:22:40 +0000
+last_modified_at: 2024-01-04 17:14:15 +0000
 url: https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples
 image:
   path: https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples/raw/main/doc/img/backgorund_christmas.gif
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples)
+## [Open In Github](https://github.com/ibaiGorordo/Mediapipe-Christmas-Examples)
 
 Python scripts using the Mediapipe models for Christmas.
 

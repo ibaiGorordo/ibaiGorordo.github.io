@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX FastACVNet Depth Estimation
-date: 2022-12-26 14:09:50 
-last_modified_at: 2023-01-19 06:33:29 
+date: 2022-12-26 14:09:50 +0000
+last_modified_at: 2024-07-18 10:21:09 +0000
 url: https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/raw/main/doc/img/out.jpg
@@ -11,7 +11,7 @@ tags: [deep-learning, depth-estimation, onnx, onnxruntime, opencv, python, stere
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation)
 
  Python scripts performing stereo depth estimation using the Fast-ACVNet model in ONNX.
  

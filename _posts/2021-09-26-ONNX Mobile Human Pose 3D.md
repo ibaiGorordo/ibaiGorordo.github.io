@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX Mobile Human Pose 3D
-date: 2021-09-26 13:02:01 
-last_modified_at: 2023-01-14 01:34:17 
+date: 2021-09-26 13:02:01 +0000
+last_modified_at: 2024-05-16 09:50:54 +0000
 url: https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D
 image:
   path: https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D/raw/main/doc/img/output.bmp
@@ -11,7 +11,7 @@ tags: [onnx, onnxruntime, pose-estimation, 3d-pose-estimation, yolov5s]
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D)
 
 Python scripts for performing 3D human pose estimation using the Mobile Human Pose model.
 

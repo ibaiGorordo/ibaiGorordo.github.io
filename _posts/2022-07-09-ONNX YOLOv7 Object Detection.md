@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX YOLOv7 Object Detection
-date: 2022-07-09 05:30:50 
-last_modified_at: 2023-01-19 21:57:44 
+date: 2022-07-09 05:30:50 +0000
+last_modified_at: 2024-07-23 04:27:52 +0000
 url: https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection/raw/main/doc/img/detected_objects.jpg
@@ -11,7 +11,7 @@ tags: [computer-vision, deep-learning, object-detection, onnx, opencv, python, y
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
 
  Python scripts performing object detection using the YOLOv7 model in ONNX.
 
@@ -40,7 +40,7 @@ Otherwise:
 `pip install onnxruntime`
 
 # ONNX model
-The original models were converted to different formats (including .onnx) by [PINTO0309](https://github.com/PINTO0309). Download the models from **[his repository]**(https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7). For that, you can either run the `download_single_batch.sh` or copy the google drive link inside that script in your browser to manually download the file. Then, extract and copy the downloaded onnx models (for example `yolov7-tiny_480x640.onnx`) to your **[models directory](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection/tree/main/models)**, and fix the file name in the python scripts accordingly.
+The original models were converted to different formats (including .onnx) by [PINTO0309](https://github.com/PINTO0309). Download the models from **[his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7)**. For that, you can either run the `download_single_batch.sh` or copy the google drive link inside that script in your browser to manually download the file. Then, extract and copy the downloaded onnx models (for example `yolov7-tiny_480x640.onnx`) to your **[models directory](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection/tree/main/models)**, and fix the file name in the python scripts accordingly.
 
 - The License of the models is GPL-3.0 license: [License](https://github.com/WongKinYiu/yolov7/blob/main/LICENSE.md)
 

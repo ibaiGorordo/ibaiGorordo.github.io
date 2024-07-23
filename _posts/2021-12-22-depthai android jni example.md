@@ -1,8 +1,8 @@
 ---
 layout: post
 title: depthai android jni example
-date: 2021-12-22 11:55:31 
-last_modified_at: 2022-11-27 03:26:53 
+date: 2021-12-22 11:55:31 +0000
+last_modified_at: 2024-03-13 08:18:46 +0000
 url: https://github.com/ibaiGorordo/depthai-android-jni-example
 image:
   path: https://socialify.git.ci/ibaiGorordo/depthai-android-jni-example/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
@@ -11,7 +11,7 @@ tags: [android, computer-vision, cpp, deep-learning, depthai, jni-android, objec
 categories: ["Repository", C++]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/depthai-android-jni-example)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/depthai-android-jni-example)
+## [Open In Github](https://github.com/ibaiGorordo/depthai-android-jni-example)
 
  Android example to get the rgb and disparity images from the OAK-D device connected to a phone.
 

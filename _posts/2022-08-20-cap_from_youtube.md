@@ -1,8 +1,8 @@
 ---
 layout: post
 title: cap_from_youtube
-date: 2022-08-20 09:04:18 
-last_modified_at: 2022-08-30 19:26:23 
+date: 2022-08-20 09:04:18 +0000
+last_modified_at: 2024-07-10 15:45:10 +0000
 url: https://github.com/ibaiGorordo/cap_from_youtube
 image:
   path: https://img.shields.io/pypi/v/cap-from-youtube?color=2BAF2B
@@ -11,7 +11,7 @@ tags: [opencv, opencv-python, python, video-capture, youtube, youtube-dl, yt-dlp
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/cap_from_youtube)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/cap_from_youtube)
+## [Open In Github](https://github.com/ibaiGorordo/cap_from_youtube)
 
  Get an OpenCV video capture from an YouTube video URL
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TFLite Mobile Generic Object Localizer
-date: 2021-09-18 10:53:03 
-last_modified_at: 2022-10-07 09:57:30 
+date: 2021-09-18 10:53:03 +0000
+last_modified_at: 2024-05-12 10:23:23 +0000
 url: https://github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer
 image:
   path: https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/raw/main/docs/img/output.jpg
@@ -11,7 +11,7 @@ tags: [object-detection, detection, tensorflow-lite, tflite, class-agnostic-dete
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer)
+## [Open In Github](https://github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer)
 
 Python TFLite scripts for detecting objects of any class in an image without knowing their label. 
 

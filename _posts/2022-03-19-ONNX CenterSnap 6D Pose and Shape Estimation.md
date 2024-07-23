@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX CenterSnap 6D Pose and Shape Estimation
-date: 2022-03-19 14:11:42 
-last_modified_at: 2023-01-21 01:42:58 
+date: 2022-03-19 14:11:42 +0000
+last_modified_at: 2024-07-12 07:01:00 +0000
 url: https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation
 image:
   path: https://user-images.githubusercontent.com/43162939/159124756-6c562b36-f901-4669-b003-f7dec714b684.png
@@ -11,7 +11,7 @@ tags: [python, onnx, onnxruntime, onnxruntime-gpu, opencv, computer-vision, 3d-o
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation)
 
  Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
  

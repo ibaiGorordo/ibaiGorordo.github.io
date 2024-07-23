@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX ACVNet Stereo Depth Estimation
-date: 2022-03-26 13:01:03 
-last_modified_at: 2023-01-10 10:32:33 
+date: 2022-03-26 13:01:03 +0000
+last_modified_at: 2024-02-07 06:44:17 +0000
 url: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation/raw/main/doc/img/out.jpg
@@ -11,7 +11,7 @@ tags: [computer-vision, deep-learning, depth-estimation, onnx, onnxruntime, ster
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-ACVNet-Stereo-Depth-Estimation)
 
  About Python scripts form performing stereo depth estimation using the ACVNet model in ONNX.
  

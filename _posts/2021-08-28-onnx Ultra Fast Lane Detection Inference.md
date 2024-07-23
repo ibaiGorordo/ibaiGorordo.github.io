@@ -1,8 +1,8 @@
 ---
 layout: post
 title: onnx Ultra Fast Lane Detection Inference
-date: 2021-08-28 13:12:19 
-last_modified_at: 2023-01-10 01:31:45 
+date: 2021-08-28 13:12:19 +0000
+last_modified_at: 2024-07-01 10:19:26 +0000
 url: https://github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference
 image:
   path: https://github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference/raw/main/doc/img/detected%20lanes.jpg
@@ -11,7 +11,7 @@ tags: [onnx, onnxruntime, lane-detection, lane-lines-detection, lane-segmentatio
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference)
+## [Open In Github](https://github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference)
 
  Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in ONNX.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TFLite MobileStereoNet
-date: 2021-11-28 09:10:36 
-last_modified_at: 2022-02-14 07:08:32 
+date: 2021-11-28 09:10:36 +0000
+last_modified_at: 2024-07-11 07:03:03 +0000
 url: https://github.com/ibaiGorordo/TFLite-MobileStereoNet
 image:
   path: https://github.com/ibaiGorordo/TFLite-MobileStereoNet/raw/main/doc/out.jpg
@@ -11,7 +11,7 @@ tags: [tflite, python, stereo-vision, stereo-depth-estimation, tensorflow-lite, 
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/TFLite-MobileStereoNet)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/TFLite-MobileStereoNet)
+## [Open In Github](https://github.com/ibaiGorordo/TFLite-MobileStereoNet)
 
 Python scripts for performing stereo depth estimation using the MobileStereoNet model in Tensorflow Lite.
 

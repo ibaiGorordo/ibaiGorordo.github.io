@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX YOLOv6 Object Detection
-date: 2022-06-25 11:32:25 
-last_modified_at: 2022-12-13 13:23:38 
+date: 2022-06-25 11:32:25 +0000
+last_modified_at: 2024-07-04 12:32:04 +0000
 url: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection/raw/main/doc/img/detected_objects.jpg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection)
 
  Python scripts performing object detection using the YOLOv6 model in ONNX.
 

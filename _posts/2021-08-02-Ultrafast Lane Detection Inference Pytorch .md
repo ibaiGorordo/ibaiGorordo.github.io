@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ultrafast Lane Detection Inference Pytorch 
-date: 2021-08-02 12:10:30 
-last_modified_at: 2023-01-23 06:12:47 
+date: 2021-08-02 12:10:30 +0000
+last_modified_at: 2024-07-16 07:09:57 +0000
 url: https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-
 image:
   path: https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/raw/main/doc/img/detected%20lanes.jpg
@@ -11,7 +11,7 @@ tags: [python, pytorch, lane-detection, self-driving-car, lane-lines-detection, 
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-)
+## [Open In Github](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-)
 
 Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Pytorch.
 

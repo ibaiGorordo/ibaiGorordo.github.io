@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX LSTR Lane Detection
-date: 2021-11-21 11:48:36 
-last_modified_at: 2022-08-30 02:03:35 
+date: 2021-11-21 11:48:36 +0000
+last_modified_at: 2024-07-04 04:01:09 +0000
 url: https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection/raw/main/doc/img/lane_Detection.jpg
@@ -11,7 +11,7 @@ tags: [lane-detection, onnx, python, deep-learning, machine-learning, onnxruntim
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection)
 
 Python scripts for performing lane detection using the Lane Shape Prediction with Transformers (LSTR) model in ONNX.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX Object Localization Network
-date: 2022-04-23 14:00:54 
-last_modified_at: 2022-10-14 03:56:29 
+date: 2022-04-23 14:00:54 +0000
+last_modified_at: 2024-06-18 17:07:23 +0000
 url: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network
 image:
   path: https://github.com/ibaiGorordo/ONNX-Object-Localization-Network/raw/main/doc/img/output.jpg
@@ -11,7 +11,7 @@ tags: [class-agnostic-detection, computer-vision, object-detection, onnx, onnxru
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-Object-Localization-Network)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-Object-Localization-Network)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-Object-Localization-Network)
 
  Python scripts performing class agnostic object localization using the Object Localization Network model in ONNX.
 

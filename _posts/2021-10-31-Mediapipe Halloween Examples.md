@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mediapipe Halloween Examples
-date: 2021-10-31 10:48:38 
-last_modified_at: 2023-01-20 10:21:38 
+date: 2021-10-31 10:48:38 +0000
+last_modified_at: 2024-05-22 04:04:58 +0000
 url: https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples
 image:
   path: https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/raw/main/doc/img/skeleton.gif
@@ -11,7 +11,7 @@ tags: [mediapipe, mediapipe-facemesh, mediapipe-face-detection, mediapipe-models
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples)
+## [Open In Github](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples)
 
 Python scripts using the Mediapipe models for Halloween.
 

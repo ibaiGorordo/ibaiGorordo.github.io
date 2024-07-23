@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TFLite HITNET Stereo depth estimation
-date: 2021-09-06 05:21:22 
-last_modified_at: 2023-01-13 07:35:59 
+date: 2021-09-06 05:21:22 +0000
+last_modified_at: 2024-07-01 15:48:30 +0000
 url: https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation
 image:
   path: https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation/raw/main/docs/img/out.jpg
@@ -11,7 +11,7 @@ tags: [python, tflite, tensorflow-lite, depth-estimation, stereo-vision, stereo-
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation)
+## [Open In Github](https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation)
 
 Python scripts form performing stereo depth estimation using the HITNET model in Tensorflow Lite.
 

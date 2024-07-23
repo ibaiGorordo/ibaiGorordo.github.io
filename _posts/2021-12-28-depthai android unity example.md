@@ -1,8 +1,8 @@
 ---
 layout: post
 title: depthai android unity example
-date: 2021-12-28 09:19:52 
-last_modified_at: 2022-12-20 05:51:03 
+date: 2021-12-28 09:19:52 +0000
+last_modified_at: 2024-01-04 17:04:31 +0000
 url: https://github.com/ibaiGorordo/depthai-android-unity-example
 image:
   path: https://github.com/ibaiGorordo/depthai-android-unity-example/raw/main/doc/img/depthai_unity_android_particle_example.gif
@@ -11,7 +11,7 @@ tags: [depthai, unity, unity3d, android, cpp, csharp]
 categories: ["Repository", C++]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/depthai-android-unity-example)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/depthai-android-unity-example)
+## [Open In Github](https://github.com/ibaiGorordo/depthai-android-unity-example)
 
  Unity project (built with Unity 2020.3.25f1) with an example on how to run the depthai library in Android.
 

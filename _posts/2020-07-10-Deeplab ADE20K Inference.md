@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Deeplab ADE20K Inference
-date: 2020-07-10 08:55:07 
-last_modified_at: 2022-02-09 10:06:20 
+date: 2020-07-10 08:55:07 +0000
+last_modified_at: 2022-02-09 10:06:20 +0000
 url: https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference
 image:
   path: https://colab.research.google.com/assets/colab-badge.svg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Jupyter Notebook]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference)
+## [Open In Github](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference)
 
 Python program to visualize the results from the Deeplab model (trained on **ADE20K dataset**).
 

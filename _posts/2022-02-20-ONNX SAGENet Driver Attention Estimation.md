@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX SAGENet Driver Attention Estimation
-date: 2022-02-20 08:17:04 
-last_modified_at: 2022-03-04 04:24:32 
+date: 2022-02-20 08:17:04 +0000
+last_modified_at: 2022-03-04 04:24:32 +0000
 url: https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation/raw/main/doc/img/output.jpg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-SAGENet-Driver-Attention-Estimation)
 
  Python scripts for performing driver attention estimation using the SAGENet model in onnx
  

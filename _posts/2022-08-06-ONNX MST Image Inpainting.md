@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX MST Image Inpainting
-date: 2022-08-06 14:54:59 
-last_modified_at: 2023-01-23 00:31:03 
+date: 2022-08-06 14:54:59 +0000
+last_modified_at: 2024-06-24 17:16:59 +0000
 url: https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting
 image:
   path: https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting/raw/main/doc/img/inpainted.png
@@ -11,7 +11,7 @@ tags: [onnx, image-inpainting, inpainting, onnxruntime, onnxruntime-gpu, opencv,
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-MST-Image-Inpainting)
 
 Python scripts for performing Image Inpainting using the MST model in ONNX
 

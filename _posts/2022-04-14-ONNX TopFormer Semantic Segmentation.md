@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX TopFormer Semantic Segmentation
-date: 2022-04-14 15:57:28 
-last_modified_at: 2022-11-17 11:01:11 
+date: 2022-04-14 15:57:28 +0000
+last_modified_at: 2023-11-27 03:07:30 +0000
 url: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation/raw/main/doc/img/output.png
@@ -11,7 +11,7 @@ tags: [ade20k, computer-vision, onnx, onnxruntime, onnxruntime-gpu, opencv, pyth
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation)
 
  Python scripts performing semantic segmentation using the TopFormer model in ONNX.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: nuScenes Lane Detection
-date: 2020-02-01 13:29:33 
-last_modified_at: 2022-07-31 09:59:12 
+date: 2020-02-01 13:29:33 +0000
+last_modified_at: 2023-12-04 09:10:02 +0000
 url: https://github.com/ibaiGorordo/nuScenes-Lane-Detection
 image:
   path: https://socialify.git.ci/ibaiGorordo/nuScenes-Lane-Detection/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
@@ -11,7 +11,7 @@ tags: [nuscenes, python, lane-detection, opencv]
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/nuScenes-Lane-Detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/nuScenes-Lane-Detection)
+## [Open In Github](https://github.com/ibaiGorordo/nuScenes-Lane-Detection)
 
 
 Lane detection program (Python) for the nuScenes mini dataset.

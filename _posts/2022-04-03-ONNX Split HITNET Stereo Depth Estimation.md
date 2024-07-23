@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX Split HITNET Stereo Depth Estimation
-date: 2022-04-03 09:08:45 
-last_modified_at: 2022-06-20 08:45:39 
+date: 2022-04-03 09:08:45 +0000
+last_modified_at: 2023-11-07 08:37:05 +0000
 url: https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation/raw/main/doc/img/split.png
@@ -11,7 +11,7 @@ tags: [inference, onnx, onnx-format, onnxruntime, onnx-graphsurgeon]
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-Split-HITNET-Stereo-Depth-Estimation)
 
  Python scripts for performing Stereo Depth Estimation using the HITNET model split into two parts in ONNX.
 

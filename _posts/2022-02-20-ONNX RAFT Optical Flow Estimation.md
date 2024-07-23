@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX RAFT Optical Flow Estimation
-date: 2022-02-20 13:48:55 
-last_modified_at: 2023-01-03 17:20:29 
+date: 2022-02-20 13:48:55 +0000
+last_modified_at: 2024-06-08 12:27:30 +0000
 url: https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/raw/main/doc/img/eagle.gif
@@ -11,7 +11,7 @@ tags: [onnx, onnxruntime, optical-flow, computer-vision, python]
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation)
 
  Python scripts for performing optical flow estimation using the RAFT model in ONNX
 

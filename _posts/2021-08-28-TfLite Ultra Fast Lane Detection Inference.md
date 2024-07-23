@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TfLite Ultra Fast Lane Detection Inference
-date: 2021-08-28 07:17:52 
-last_modified_at: 2023-01-09 15:46:39 
+date: 2021-08-28 07:17:52 +0000
+last_modified_at: 2024-02-19 17:30:25 +0000
 url: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference
 image:
   path: https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference/raw/main/doc/img/detected_lanes.jpg
@@ -11,7 +11,7 @@ tags: [tflite, tensorflow, tensorflow-lite, lane-detection, lane-segmentation, i
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference)
+## [Open In Github](https://github.com/ibaiGorordo/TfLite-Ultra-Fast-Lane-Detection-Inference)
 
 Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Tensorflow Lite.
 

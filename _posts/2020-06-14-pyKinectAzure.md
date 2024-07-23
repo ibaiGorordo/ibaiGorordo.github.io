@@ -1,18 +1,19 @@
 ---
 layout: post
 title: pyKinectAzure
-date: 2020-06-14 13:13:12 
-last_modified_at: 2023-01-24 02:51:19 
+date: 2020-06-14 13:13:12 +0000
+last_modified_at: 2024-07-19 07:04:14 +0000
 url: https://github.com/ibaiGorordo/pyKinectAzure
 image:
-  path: https://github.com/ibaiGorordo/pyKinectAzure/raw/master/doc/images/outputImage.jpg
-  alt: Azure kinect color and depth combination
+  path: https://img.shields.io/pypi/v/pykinect-azure?color=2BAF2B
+  alt: pyKinectAzure
 tags: [opencv-python, opencv, depth-camera, body-tracking, deep-learning, k4a, k4abt, kinect, python3, python, kinect-azure, azure-kinect-sdk, azure-kinect, azure-kinect-dk]
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/pyKinectAzure)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/pyKinectAzure)
+## [Open In Github](https://github.com/ibaiGorordo/pyKinectAzure)
 
+[![PyPI](https://img.shields.io/pypi/v/pykinect-azure?color=2BAF2B)](https://pypi.org/project/pykinect-azure/)
 
 ![Azure kinect color and depth combination](https://github.com/ibaiGorordo/pyKinectAzure/raw/master/doc/images/outputImage.jpg)
 
@@ -32,6 +33,11 @@ The objective of this repository is to combine the strong points of both reposit
 * **ctypes**: required to read the library.
 * **numpy**: required for the matrix calculations
 * **opencv-python**: Required for the image transformations and visualization.
+
+## Installation
+```commandline
+pip install pykinect_azure
+```
 
 ## How to use this library
 

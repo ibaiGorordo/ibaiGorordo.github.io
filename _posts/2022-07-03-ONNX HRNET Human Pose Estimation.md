@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX HRNET Human Pose Estimation
-date: 2022-07-03 12:59:45 
-last_modified_at: 2023-01-06 15:36:18 
+date: 2022-07-03 12:59:45 +0000
+last_modified_at: 2024-07-18 09:47:54 +0000
 url: https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation
 image:
   path: https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation/raw/main/doc/img/output.jpg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation)
 
  Python scripts for performing 2D human pose estimation using the HRNET family models (HRNET, Lite-HRNet) in ONNX.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Social Distance Feedback For The Blind
-date: 2020-08-08 12:00:48 
-last_modified_at: 2022-09-03 07:34:18 
+date: 2020-08-08 12:00:48 +0000
+last_modified_at: 2024-03-08 04:58:40 +0000
 url: https://github.com/ibaiGorordo/Social-Distance-Feedback-For-The-Blind
 image:
   path: https://github.com/ibaiGorordo/Social-Distance-Feedback/raw/master/docs/images/proposed%20system%20illustration.jpg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Jupyter Notebook]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Social-Distance-Feedback-For-The-Blind)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Social-Distance-Feedback-For-The-Blind)
+## [Open In Github](https://github.com/ibaiGorordo/Social-Distance-Feedback-For-The-Blind)
 
 A social distancing feedback system for the blind using the OAK-D camera. This project is part of the [OpenCV Spatial AI Competition](https://opencv.org/opencv-spatial-ai-competition/).
 

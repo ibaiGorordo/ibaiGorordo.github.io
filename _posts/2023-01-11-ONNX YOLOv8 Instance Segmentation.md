@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX YOLOv8 Instance Segmentation
-date: 2023-01-11 04:07:18 
-last_modified_at: 2023-01-18 15:31:02 
+date: 2023-01-11 04:07:18 +0000
+last_modified_at: 2024-07-17 12:26:06 +0000
 url: https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation/raw/main/doc/img/detected_objects.jpg
@@ -11,7 +11,7 @@ tags: [computer-vision, deep-learning, instance-segmentation, onnx, onnxruntime,
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation)
 
  Python scripts performing instance segmentation using the YOLOv8 model in ONNX.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pytorch KP2D Feature Tracking
-date: 2022-02-27 14:49:22 
-last_modified_at: 2023-01-17 17:30:52 
+date: 2022-02-27 14:49:22 +0000
+last_modified_at: 2024-02-12 09:52:26 +0000
 url: https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking
 image:
   path: https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking/raw/main/doc/img/output.png
@@ -11,7 +11,7 @@ tags: [python, pytorch, visual-odometry, keypoint-detection, keypoint-tracking, 
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking)
+## [Open In Github](https://github.com/ibaiGorordo/Pytorch-KP2D-Feature-Tracking)
 
  Python scripts for performing 2D feature detection and tracking using the KP2D model in Pytorch
 

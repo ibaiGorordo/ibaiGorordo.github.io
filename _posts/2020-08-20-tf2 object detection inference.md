@@ -1,8 +1,8 @@
 ---
 layout: post
 title: tf2 object detection inference
-date: 2020-08-20 10:45:51 
-last_modified_at: 2022-06-13 10:22:58 
+date: 2020-08-20 10:45:51 +0000
+last_modified_at: 2023-04-23 11:07:34 +0000
 url: https://github.com/ibaiGorordo/tf2-object-detection-inference
 image:
   path: https://github.com/ibaiGorordo/tf2-object-detection-inference/raw/master/doc/img/Inference%20Output%20Example.gif
@@ -11,7 +11,7 @@ tags: [tensorflow2, object-detection, inference, webcam-capture, opencv, deep-le
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/tf2-object-detection-inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/tf2-object-detection-inference)
+## [Open In Github](https://github.com/ibaiGorordo/tf2-object-detection-inference)
 
 ![TF2 Object Detection Inference](https://github.com/ibaiGorordo/tf2-object-detection-inference/raw/master/doc/img/Inference%20Output%20Example.gif)
 

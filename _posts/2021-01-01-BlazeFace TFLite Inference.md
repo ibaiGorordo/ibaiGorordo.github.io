@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BlazeFace TFLite Inference
-date: 2021-01-01 01:31:58 
-last_modified_at: 2022-11-17 11:38:13 
+date: 2021-01-01 01:31:58 +0000
+last_modified_at: 2024-06-26 15:24:39 +0000
 url: https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference
 image:
   path: https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference/raw/main/doc/img/output.jpg
@@ -11,7 +11,7 @@ tags: [blazeface, tensorflow2, python, facedetection, face-detection, tflite, te
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference)
+## [Open In Github](https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference)
 
  Python scripts to detect faces using Python with the BlazeFace Tensorflow Lite models. Tested on Windows 10, Tensorflow 2.4.0 (Python 3.8).
 

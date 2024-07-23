@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ONNX YOLOv8 Object Detection
-date: 2023-01-10 11:45:46 
-last_modified_at: 2023-01-24 01:47:55 
+date: 2023-01-10 11:45:46 +0000
+last_modified_at: 2024-07-22 15:19:07 +0000
 url: https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection
 image:
   path: https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/raw/main/doc/img/detected_objects.jpg
@@ -11,7 +11,7 @@ tags: [yolov8, onnx, onnxruntime, opencv, python, computer-vision, deep-learning
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
+## [Open In Github](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
 
 ![! ONNX YOLOv8 Object Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/raw/main/doc/img/detected_objects.jpg)
 *Original image: [https://www.flickr.com/photos/nicolelee/19041780](https://www.flickr.com/photos/nicolelee/19041780)*

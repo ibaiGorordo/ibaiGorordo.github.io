@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pytorch SAGENet Driver Attention Estimation
-date: 2022-02-19 08:10:54 
-last_modified_at: 2022-02-21 01:38:16 
+date: 2022-02-19 08:10:54 +0000
+last_modified_at: 2022-02-21 01:38:16 +0000
 url: https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation
 image:
   path: https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation/raw/main/doc/img/output.jpg
@@ -10,7 +10,7 @@ image:
 categories: ["Repository", Python]
 ---
 
-## [Open In Github](https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation)[![Open In Github](https://icons-for-free.com/download-icon-part+1+github-1320568339880199515_0.svg)](https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation)
+## [Open In Github](https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation)
 
  Python scripts for performing driver attention estimation using the SAGENet model in Pytorch
  
