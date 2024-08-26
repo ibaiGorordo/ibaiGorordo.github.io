@@ -5,7 +5,7 @@ date: 2024-08-03 06:48:51 +0000
 last_modified_at: 2024-08-23 08:39:52 +0000
 url: https://github.com/ibaiGorordo/Tapir-Pytorch-Inference
 image:
-  path: https://socialify.git.ci/ibaiGorordo/Tapir-Pytorch-Inference/image?&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Light
+  path: https://github.com/user-attachments/assets/5d92851e-08fd-40f5-a486-370ca276198b
   alt: Tapir Pytorch Inference
 tags: [computer-vision, deep-learning, point-tracking, pytorch, tracking]
 categories: ["Repository", Python]
