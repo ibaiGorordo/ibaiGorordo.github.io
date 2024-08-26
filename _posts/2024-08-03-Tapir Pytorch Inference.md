@@ -13,7 +13,7 @@ categories: ["Repository", Python]
 
 ## [Open In Github](https://github.com/ibaiGorordo/Tapir-Pytorch-Inference)
 
-![vlcsnap-2024-08-26-13h58m08s098](https://github.com/user-attachments/assets/5d92851e-08fd-40f5-a486-370ca276198b)
+![!vlcsnap-2024-08-26-13h58m08s098](https://github.com/user-attachments/assets/5d92851e-08fd-40f5-a486-370ca276198b)
 
 ## Important
 This is a strip down version of the original Tapir repository focused on inference.
